@@ -1,4 +1,4 @@
-# Basis-Data-Praktikum-4
+# Praktikum 4 Basis Data
 ```
 Tugas Praktikum
 1. Tampilkan pegawai yang gajinya bukan 2.000.000 dan 1.250.000 !
