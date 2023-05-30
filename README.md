@@ -65,4 +65,4 @@ saja
 
 
 # Kesimpulan
-Query filter memungkinkan kita untuk mencari atau memfilter data lebih mudah dan lebih cepat, dengan catatan memberikan kriteria khusus yang cocok dengan database.
+Query filter memungkinkan untuk mencari atau memfilter data lebih mudah dan lebih cepat, dengan catatan memberikan kriteria khusus yang cocok dengan database.
