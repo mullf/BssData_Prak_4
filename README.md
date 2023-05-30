@@ -1,5 +1,5 @@
 # Praktikum 4 Basis Data
-
+```
 Tugas Praktikum
 1. Tampilkan pegawai yang gajinya bukan 2.000.000 dan 1.250.000 !
 2. Tampilkan pegawai yang tunjangannya NULL! 
@@ -9,7 +9,7 @@ Tugas Praktikum
 6. Tampilkan/hitung rata-rata gaji pegawai!
 7. Tampilkan gaji terkecil!
 8. Tampilkan gaji terbesar!
-
+```
 1. Tampilkan pegawai yang gajinya bukan 2.000.000 dan 1.250.000 !
 ![pc1](https://github.com/DimasF3009/Basis-Data-Praktikum-4/assets/115356128/23f75828-3217-4cf9-8dba-fecc50b91367)
 
